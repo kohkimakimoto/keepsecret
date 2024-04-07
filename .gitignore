@@ -1,0 +1,6 @@
+# common
+.DS_Store
+Thumbs.db
+.tags*
+._*
+!.gitkeep
